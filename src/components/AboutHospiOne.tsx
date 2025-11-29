@@ -14,7 +14,7 @@ export const AboutHospiOne = () => {
             <div className="lg:w-1/2">
               <div className="rounded-2xl overflow-hidden shadow-lg h-full min-h-[300px]">
                 <img 
-                  src="logo.png" 
+                  src="https://plus.unsplash.com/premium_photo-1681843126728-04eab730febe?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWVkaWNhbCUyMHRlYW18ZW58MHx8MHx8fDA%3D" 
                   alt="Surgeons performing operation" 
                   className="w-full h-full object-cover"
                 />
