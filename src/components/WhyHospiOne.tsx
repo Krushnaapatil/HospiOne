@@ -69,7 +69,7 @@ export const WhyHospiOne = () => {
               <p className="text-[10px] text-slate-500">Lorem ipsum dolor sit amet cons adipiscing elit sed doesmo</p>
             </div>
             <div className="w-16 h-16 rounded-full border-4 border-white shadow-lg overflow-hidden flex-shrink-0 bg-cyan-50">
-              <img src="https://images.unsplash.com/photo-1537368910025-bc005fbede68?q=80&w=1000&auto=format&fit=crop" className="w-full h-full object-cover" />
+              <img src="https://plus.unsplash.com/premium_photo-1681843126728-04eab730febe?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWVkaWNhbCUyMHRlYW18ZW58MHx8MHx8fDA%3D" className="w-full h-full object-cover" />
             </div>
           </div>
 
