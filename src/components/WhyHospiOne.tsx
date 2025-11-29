@@ -24,7 +24,7 @@ export const WhyHospiOne = () => {
                <div className="absolute inset-0 rounded-full border-4 border-white/30"></div>
                <div className="w-full h-full rounded-full overflow-hidden bg-white border-4 border-white relative">
                   <img 
-                    src="logo.png" 
+                    src="https://plus.unsplash.com/premium_photo-1681843126728-04eab730febe?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWVkaWNhbCUyMHRlYW18ZW58MHx8MHx8fDA%3D" 
                     alt="Doctors Team" 
                     className="w-full h-full object-cover"
                   />
